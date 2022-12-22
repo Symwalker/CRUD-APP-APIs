@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+}
+
+.myDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.myDiv button{
+  width: 50px;
+}

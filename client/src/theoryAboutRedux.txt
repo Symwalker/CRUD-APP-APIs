@@ -1,0 +1,23 @@
+packages for installing redux thunk
+(1) npm i redux react-redux redux-thunk.
+=>view se action create hoga
+=>phir dispatch hoga view se  
+=>phir woh jaye ga store ke action me.
+=>Ab dispatch hoga action se 
+=>dispatch ho kar reducer ke paas jaye ga 
+=>wahan ja kr type or paload check kre ga
+=>agr action.type mil rahi hogi tou jo kaam krwana hoga woh return krwana
+=>Reducer ke andar jo function banatay hein woh do parameter leita he pehla global states or action jo dispatch hokar aaya
+=>Types ko constanst bhi kehtay jo identify krta he
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
+=>
